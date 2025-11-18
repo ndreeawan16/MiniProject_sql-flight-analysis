@@ -1,0 +1,15 @@
+"airline_name","cancelled","total_flight","avg_arrival_delay","avg_departure_delay","avg_weather_delay","avg_late_aircraft_delay","total_arr_delay","total_dep_delay","total_weather_delay","total_late_aircraft_delay","percentage_on_time","percentage_delay_over_30"
+AirAsia Indonesia,false,4,16,15,5,6,65,60,20,25,25.00,25.00
+AirAsia Indonesia,true,1,60,50,30,20,60,50,30,20,0.00,100.00
+Batik Air,false,4,13,9,1,5,50,35,5,20,25.00,0.00
+Batik Air,true,1,30,25,10,15,30,25,10,15,0.00,0.00
+Citilink,false,4,16,11,1,8,65,45,5,30,0.00,0.00
+Citilink,true,1,70,60,35,20,70,60,35,20,0.00,100.00
+Garuda Indonesia,false,4,11,9,1,6,45,35,5,25,25.00,0.00
+Garuda Indonesia,true,1,50,45,25,15,50,45,25,15,0.00,100.00
+Lion Air,false,4,15,14,3,6,60,55,10,25,25.00,25.00
+Lion Air,true,1,30,25,15,10,30,25,15,10,0.00,0.00
+Sriwijaya Air,false,8,12,11,3,6,95,85,20,45,37.50,0.00
+Sriwijaya Air,true,2,50,45,28,18,100,90,55,35,0.00,100.00
+Super Air Jet,false,4,8,8,0,6,30,30,0,25,25.00,0.00
+Super Air Jet,true,1,40,35,20,15,40,35,20,15,0.00,100.00
